@@ -40,3 +40,14 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+<h3 align="center">📬 Let’s Connect</h3>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1paWe4O1Mviea9fMX7Fx9ZFyiv6rdrdQ9/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/View%20Resume-Professional-1E3C72?style=for-the-badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vaibhav-gaikwad-50a1b4257">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Gaikwad-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
