@@ -51,3 +51,80 @@
     <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Gaikwad-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Mess Management System  
+Full-stack FastAPI + React application with JWT authentication and ANN-based prediction module.  
+- Role-based access control  
+- REST API architecture  
+- Integrated ML workflow  
+
+🔗 <a href="https://github.com/vaibhavgaikwad0072/Mess_Management_System">View Project</a>
+
+</td>
+
+<td width="50%">
+
+### 📚 RAG-Based AI Teaching Assistant  
+Retrieval-Augmented Generation system for academic assistance.  
+- Vector search integration  
+- LLM-powered responses  
+- Context-aware document retrieval  
+
+🔗 <a href="https://github.com/vaibhavgaikwad0072/RAG-Based-AI-Teaching-Assistant">View Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☀️ Solar Panel Defect Classification  
+Computer Vision model using EfficientNet for defect detection.  
+- Image preprocessing pipeline  
+- CNN-based classification  
+- Performance evaluation metrics  
+
+🔗 <a href="https://github.com/vaibhavgaikwad0072/Solar-Panel-Defect-Classification/tree/main">View Project</a>
+
+</td>
+
+<td width="50%">
+
+### 🎬 Movie Recommendation System  
+Content-based recommendation engine using NLP & similarity scoring.  
+- Feature extraction  
+- Cosine similarity ranking  
+- Modular recommendation logic  
+
+🔗 <a href="https://github.com/vaibhavgaikwad0072/Moive-Recommendation-system">View Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Text-to-SQL Query System  
+AI-powered natural language to SQL conversion system.  
+- NLP query processing  
+- SQL generation pipeline  
+- Backend integration  
+
+🔗 <a href="https://github.com/vaibhavgaikwad0072/Text-To-SQL">View Project</a>
+
+</td>
+
+<td width="50%">
+</td>
+</tr>
+</table>
+
+---
+
