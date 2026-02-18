@@ -65,7 +65,7 @@ Full-stack FastAPI + React application with JWT authentication and ANN-based pre
 - REST API architecture  
 - Integrated ML workflow  
 
-🔗 <a href="[https://github.com/vaibhavgaikwad0072/Mess_Management_System](https://github.com/vaibhavgaikwad0072/Mess_Managment_System/)">View Project</a>
+🔗 <a href="https://github.com/vaibhavgaikwad0072/Mess_Managment_System/">View Project</a>
 
 </td>
 
