@@ -57,10 +57,6 @@
 
 <table>
 <tr>
-<td width="50%">
-
-
-</td>
 
 <td width="50%">
 
