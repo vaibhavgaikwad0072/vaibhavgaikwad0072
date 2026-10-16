@@ -59,13 +59,6 @@
 <tr>
 <td width="50%">
 
-### 🔥 Mess Management System  
-Full-stack FastAPI + React application with JWT authentication and ANN-based prediction module.  
-- Role-based access control  
-- REST API architecture  
-- Integrated ML workflow  
-
-🔗 <a href="https://github.com/vaibhavgaikwad0072/Mess_Managment_System/">View Project</a>
 
 </td>
 
